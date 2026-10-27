@@ -1,0 +1,3 @@
+# Created by the installer on your server — never commit real credentials
+config.local.php
+installed.lock
